@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://aamaguay.github.io/blog/post/</link>
+    <link>https://aamaguay.github.io/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 06 Nov 2020 21:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://aamaguay.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://aamaguay.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Corruption cases in ecuador: A Network Approach using Twitter Data</title>
-      <link>https://aamaguay.github.io/blog/post/corruption-cases-in-ecuador/</link>
+      <link>https://aamaguay.github.io/post/corruption-cases-in-ecuador/</link>
       <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/blog/post/corruption-cases-in-ecuador/</guid>
+      <guid>https://aamaguay.github.io/post/corruption-cases-in-ecuador/</guid>
       <description>&lt;p&gt;I made a Social Network Analysis using &lt;em&gt;Twitter Data&lt;/em&gt; from 2020-04-01 to 2020-07-15 and used hashtags such as: &lt;em&gt;#corrupcionecuador&lt;/em&gt;, &lt;em&gt;#iess&lt;/em&gt;, &lt;em&gt;#danielsalcedo&lt;/em&gt; and others. In this analysis, I wanted to analyze the behavior of people on Twitter regarding corruption cases in Ecuador and discover which were the groups that dominated this topic on Twitter. I also used a Centrality Metric like &lt;strong&gt;&amp;ldquo;Eigen Centrality&amp;rdquo;&lt;/strong&gt; and the Modularity as a metric for clustering.&lt;/p&gt;
 &lt;h3 style=&#34;text-align:center&#34; id=&#34;network-by-clusters&#34;&gt;Network by clusters&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;ima2.png&#34; alt=&#34;Sentiment Metric&#34;&gt;&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Socioeconomic Impact of ESPOL in Coast Region (Focused on Research &#43; Development &#43; Innovation)</title>
-      <link>https://aamaguay.github.io/blog/post/impact-of-espol-in-rdi/</link>
+      <link>https://aamaguay.github.io/post/impact-of-espol-in-rdi/</link>
       <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/blog/post/impact-of-espol-in-rdi/</guid>
+      <guid>https://aamaguay.github.io/post/impact-of-espol-in-rdi/</guid>
       <description>&lt;p&gt;This work is being reviewed by the Inter-American Development Bank.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;espbid.JPG&#34; alt=&#34;photo&#34;&gt;&lt;/p&gt;
 &lt;h1 style=&#34;text-align:center&#34; id=&#34;thanks-for-waiting&#34;&gt;Thanks for waiting!&lt;/h1&gt;

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks on </title>
+    <link>https://example.com/tags/networks/</link>
+    <description>Recent content in Networks on </description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 06 Nov 2020 21:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://example.com/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corruption cases in ecuador: A Network Approach using Twitter Data</title>
+      <link>https://example.com/post/corruption-cases-in-ecuador/</link>
+      <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/corruption-cases-in-ecuador/</guid>
+      <description>&lt;p&gt;I made a Social Network Analysis using &lt;em&gt;Twitter Data&lt;/em&gt; from 2020-04-01 to 2020-07-15 and used hashtags such as: &lt;em&gt;#corrupcionecuador&lt;/em&gt;, &lt;em&gt;#iess&lt;/em&gt;, &lt;em&gt;#danielsalcedo&lt;/em&gt; and others. In this analysis, I wanted to analyze the behavior of people on Twitter regarding corruption cases in Ecuador and discover which were the groups that dominated this topic on Twitter. I also used a Centrality Metric like &lt;strong&gt;&amp;ldquo;Eigen Centrality&amp;rdquo;&lt;/strong&gt; and the Modularity as a metric for clustering.&lt;/p&gt;
+&lt;h3 style=&#34;text-align:center&#34; id=&#34;network-by-clusters&#34;&gt;Network by clusters&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;ima2.png&#34; alt=&#34;Sentiment Metric&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The nodes and text size are based in the Eigen Centrality value; the links between nodes represent the number of mentions in a tweet. Also, the nodes color is based on the modularity metric. And using this clustering metric I found 20 clusters. As you can see, the main clusters are about state prosecutor&amp;rsquo;s office, government, political parties, hospitals, statal assembly, TV channels.&lt;/p&gt;
+&lt;p&gt;Moreover, the main nodes in the network are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;State prosecutor&amp;rsquo;s office
+&lt;ul&gt;
+&lt;li&gt;Fiscalia Ecuador&lt;/li&gt;
+&lt;li&gt;Diana Salazar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hospitals
+&lt;ul&gt;
+&lt;li&gt;IessEc&lt;/li&gt;
+&lt;li&gt;Jorge Wated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Government
+&lt;ul&gt;
+&lt;li&gt;Otto Sonnenholzner&lt;/li&gt;
+&lt;li&gt;Maria Paula Romo&lt;/li&gt;
+&lt;li&gt;Juan Sebastián Roldán&lt;/li&gt;
+&lt;li&gt;Lenin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Political parties
+&lt;ul&gt;
+&lt;li&gt;Mashi Rafael&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Statal assembly
+&lt;ul&gt;
+&lt;li&gt;Asamblea Ecuador&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TV channels
+&lt;ul&gt;
+&lt;li&gt;Teleamazonas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A few days later, I made a similar analysis but I used the hashtag #QuienRepartioLosHospitales, and this new data was from 2020-08-13 to 2020-08-16. During these days there were many corruption accusations directed to the Minister of Government (&lt;strong&gt;Maria Paula Romo&lt;/strong&gt;) and caused that the main actor from the network change.&lt;/p&gt;
+&lt;h3 style=&#34;text-align:center&#34; id=&#34;network-by-clusters-1&#34;&gt;Network by clusters&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;ima3.png&#34; alt=&#34;Sentiment Metric&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, in the network there are 2 groups that dominate the discussion on twitter on these days. The first group is in top of graph and its principal actors are Maria Paula Romo, Lenin, Fiscalia Ecuador. The second group is the bottom and its principal actors are Rafael Correa and many TV channels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Administrators Network</title>
+      <link>https://example.com/now/networks-new/</link>
+      <pubDate>Sun, 01 Nov 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/now/networks-new/</guid>
+      <description>&lt;h3 style=&#34;text-align:center&#34; id=&#34;work-in-process&#34;&gt;Work in process &lt;/h3&gt;
+&lt;p&gt;In a previous research, my research group analyzed the &lt;strong&gt;Business Administrators Network&lt;/strong&gt; in a general way. So, we think that this new research should focus in one or two sectors &lt;strong&gt;(Commerce and/or Agricultural Sectors)&lt;/strong&gt; due to previous results. These results showed that there are several strong links between these two sectors which motivates us to choose them. In addition, we focused in firms based in tax havens from these sectors.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;n1.jpg&#34; alt=&#34;Heatmap&#34;&gt;&lt;/p&gt;
+&lt;h1 style=&#34;text-align:center&#34; id=&#34;to-be-continued&#34;&gt;To be continued…&lt;/h1&gt;
+&lt;h1 style=&#34;text-align:center&#34; id=&#34;stay-tuned-for-new-updates&#34;&gt;Stay tuned for new updates!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network of Shared Administrators and their Relationship with Financial Performance in Companies of Ecuador: What is the effect of sharing Human Capital?</title>
+      <link>https://example.com/publication/journal-article/network/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/journal-article/network/</guid>
+      <description>&lt;h3 id=&#34;some-insights&#34;&gt;&lt;strong&gt;Some Insights&lt;/strong&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 style=&#34;text-align:center&#34; id=&#34;result-table&#34;&gt;Result table&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;tab.JPG&#34; alt=&#34;tab&#34;&gt;&lt;/p&gt;
+&lt;h3 style=&#34;text-align:center&#34; id=&#34;correlation-matrix-of-features&#34;&gt;Correlation Matrix of features&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;cor.JPG&#34; alt=&#34;Heatmap&#34;&gt;&lt;/p&gt;
+&lt;h3 style=&#34;text-align:center&#34; id=&#34;clustering&#34;&gt;Clustering&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;clust.JPG&#34; alt=&#34;clust&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Earthquake on </title>
-    <link>https://aamaguay.github.io/tags/earthquake/</link>
+    <link>https://aamaguay.github.io/blog/tags/earthquake/</link>
     <description>Recent content in Earthquake on </description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 03 Nov 2020 21:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://aamaguay.github.io/tags/earthquake/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://aamaguay.github.io/blog/tags/earthquake/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Earthquake in Ecuador</title>
-      <link>https://aamaguay.github.io/now/earthquake/</link>
+      <link>https://aamaguay.github.io/blog/now/earthquake/</link>
       <pubDate>Tue, 03 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/now/earthquake/</guid>
+      <guid>https://aamaguay.github.io/blog/now/earthquake/</guid>
       <description>&lt;h3 style=&#34;text-align:center&#34; id=&#34;work-in-process&#34;&gt;Work in process &lt;/h3&gt;
 &lt;p&gt;For a long time, It has been tried to study how natural disasters affect certain characteristics of a country. A characteristic very commonly affected when a natural disaster occurs is the geographic distribution of the affected areas and their surroundings. In this research, We&amp;rsquo;re estimating some metrics using &lt;em&gt;Movistar Phone Data&lt;/em&gt; such as Concentration Index and Resilience Index. These metrics could use like risk indicators in Ecuador. After of this, we focus to predict which is the most affected canton using several Machine Learning techniques.&lt;/p&gt;
 &lt;p&gt;In the following graph, we show a general analysis using records behavior and communication towers. We separated the graph into 2 parts: &lt;strong&gt;During the earthquake and after this&lt;/strong&gt;. Records behavior is based in user records and communication towers in the active towers. April 15 to 18 corresponds to the period during the earthquake, while July 15 to 17 belong earthquake later period.&lt;/p&gt;

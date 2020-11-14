@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://aamaguay.github.io/tags/</link>
+    <link>https://aamaguay.github.io/blog/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 06 Nov 2020 21:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://aamaguay.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://aamaguay.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Applied Microeconomics</title>
-      <link>https://aamaguay.github.io/tags/applied-microeconomics/</link>
+      <link>https://aamaguay.github.io/blog/tags/applied-microeconomics/</link>
       <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/applied-microeconomics/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/applied-microeconomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Causal Effect</title>
-      <link>https://aamaguay.github.io/tags/causal-effect/</link>
+      <link>https://aamaguay.github.io/blog/tags/causal-effect/</link>
       <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/causal-effect/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/causal-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Econometrics</title>
-      <link>https://aamaguay.github.io/tags/econometrics/</link>
+      <link>https://aamaguay.github.io/blog/tags/econometrics/</link>
       <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/econometrics/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/econometrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>https://aamaguay.github.io/tags/networks/</link>
+      <link>https://aamaguay.github.io/blog/tags/networks/</link>
       <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/networks/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applied Machine Learning</title>
-      <link>https://aamaguay.github.io/tags/applied-machine-learning/</link>
+      <link>https://aamaguay.github.io/blog/tags/applied-machine-learning/</link>
       <pubDate>Tue, 03 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/applied-machine-learning/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/applied-machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Earthquake</title>
-      <link>https://aamaguay.github.io/tags/earthquake/</link>
+      <link>https://aamaguay.github.io/blog/tags/earthquake/</link>
       <pubDate>Tue, 03 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/earthquake/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/earthquake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Disasters</title>
-      <link>https://aamaguay.github.io/tags/natural-disasters/</link>
+      <link>https://aamaguay.github.io/blog/tags/natural-disasters/</link>
       <pubDate>Tue, 03 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/natural-disasters/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/natural-disasters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Media</title>
-      <link>https://aamaguay.github.io/tags/social-media/</link>
+      <link>https://aamaguay.github.io/blog/tags/social-media/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/tags/social-media/</guid>
+      <guid>https://aamaguay.github.io/blog/tags/social-media/</guid>
       <description></description>
     </item>
     

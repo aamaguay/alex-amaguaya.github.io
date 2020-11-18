@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networks on </title>
-    <link>https://aamaguay.github.io/tags/networks/</link>
+    <link>https://aamaguay.github.io/blog/tags/networks/</link>
     <description>Recent content in Networks on </description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 06 Nov 2020 21:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://aamaguay.github.io/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://aamaguay.github.io/blog/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Corruption cases in ecuador: A Network Approach using Twitter Data</title>
-      <link>https://aamaguay.github.io/post/corruption-cases-in-ecuador/</link>
+      <title>Corruption cases in Ecuador: A Network Approach using Twitter Data</title>
+      <link>https://aamaguay.github.io/blog/post/corruption-cases-in-ecuador/</link>
       <pubDate>Fri, 06 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/post/corruption-cases-in-ecuador/</guid>
+      <guid>https://aamaguay.github.io/blog/post/corruption-cases-in-ecuador/</guid>
       <description>&lt;p&gt;I made a Social Network Analysis using &lt;em&gt;Twitter Data&lt;/em&gt; from 2020-04-01 to 2020-07-15 and used hashtags such as: &lt;em&gt;#corrupcionecuador&lt;/em&gt;, &lt;em&gt;#iess&lt;/em&gt;, &lt;em&gt;#danielsalcedo&lt;/em&gt; and others. In this analysis, I wanted to analyze the behavior of people on Twitter regarding corruption cases in Ecuador and discover which were the groups that dominated this topic on Twitter. I also used a Centrality Metric like &lt;strong&gt;&amp;ldquo;Eigen Centrality&amp;rdquo;&lt;/strong&gt; and the Modularity as a metric for clustering.&lt;/p&gt;
 &lt;h3 style=&#34;text-align:center&#34; id=&#34;network-by-clusters&#34;&gt;Network by clusters&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;ima2.png&#34; alt=&#34;Sentiment Metric&#34;&gt;&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Business Administrators Network</title>
-      <link>https://aamaguay.github.io/now/networks-new/</link>
+      <link>https://aamaguay.github.io/blog/now/networks-new/</link>
       <pubDate>Sun, 01 Nov 2020 21:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/now/networks-new/</guid>
+      <guid>https://aamaguay.github.io/blog/now/networks-new/</guid>
       <description>&lt;h3 style=&#34;text-align:center&#34; id=&#34;work-in-process&#34;&gt;Work in process &lt;/h3&gt;
 &lt;p&gt;In a previous research, my research group analyzed the &lt;strong&gt;Business Administrators Network&lt;/strong&gt; in a general way. So, we think that this new research should focus in one or two sectors &lt;strong&gt;(Commerce and/or Agricultural Sectors)&lt;/strong&gt; due to previous results. These results showed that there are several strong links between these two sectors which motivates us to choose them. In addition, we focused in firms based in tax havens from these sectors.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;n1.jpg&#34; alt=&#34;Heatmap&#34;&gt;&lt;/p&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>Network of Shared Administrators and their Relationship with Financial Performance in Companies of Ecuador: What is the effect of sharing Human Capital?</title>
-      <link>https://aamaguay.github.io/publication/journal-article/network/</link>
+      <link>https://aamaguay.github.io/blog/publication/journal-article/network/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aamaguay.github.io/publication/journal-article/network/</guid>
+      <guid>https://aamaguay.github.io/blog/publication/journal-article/network/</guid>
       <description>&lt;h3 id=&#34;some-insights&#34;&gt;&lt;strong&gt;Some Insights&lt;/strong&gt;&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h3 style=&#34;text-align:center&#34; id=&#34;result-table&#34;&gt;Result table&lt;/h3&gt;

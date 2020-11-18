@@ -1,5 +1,5 @@
 ---
-title: 'Corruption cases in ecuador: A Network Approach using Twitter Data'
+title: 'Corruption cases in Ecuador: A Network Approach using Twitter Data'
 subtitle: ''
 summary: I made a Social Network Analysis of the main actors using Twitter data of hashtags about corruption in Ecuador.
 authors:

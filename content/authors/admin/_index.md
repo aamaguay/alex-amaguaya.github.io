@@ -4,7 +4,7 @@ name: Alex Amaguaya
 
 # resume download button
 btn:
-- url : "https://drive.google.com/file/d/1O3S0hDHUHE6Y2LZBz1_XovC_4V_QaBUB/view?usp=sharing"
+- url : "https://drive.google.com/file/d/1d8XZ1fKd1dZpLPhl15BWmujOxWeXAbqQ/view?usp=sharing"
   label : "Download Resume"
 
 # "https://drive.google.com/file/d/14AvEXBixVuFNkAF6I70Vlm60r36w29Xq/view?usp=sharing"
